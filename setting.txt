@@ -1,0 +1,3 @@
+Setting python 3.9: https://
+vsudo.net/blog/python-3-9-ubuntu.html
+
